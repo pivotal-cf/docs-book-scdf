@@ -13,7 +13,7 @@ elastic_search: true
 
 sections:
 - repository:
-    name: pivotal-cf/docs-scdf
+    name: pivotal-cf/docs-spring-cloud-dataflow
     at_path: docs-content
   directory: scdf
   subnav_template: scdf_subnav.erb
