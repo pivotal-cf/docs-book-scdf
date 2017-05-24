@@ -1,11 +1,5 @@
 # Spring Cloud Data Flow for PCF Documentation Book
 
-Some helpful links are as follows:
-
-+ Content repo: https://github.com/pivotal-cf/docs-spring-cloud-dataflow
-+ Book repo (this one): https://github.com/pivotal-cf/docs-book-scdf
-+ Pipeline: https://wings.concourse.ci/teams/cf-docs/pipelines/cf-services?groups=scdf
-
 This project can create and publish the documentation for SCDF for PCF as a web application.
 
 In this topic:
@@ -25,7 +19,15 @@ You must clone this repository to run `bookbinder bind local`.
 The centralized layout repository is specified as the value of the `layout_repo` key in the `config.yml` file. 
 Bookbinder uses this centralized layout repository by default, but files in the book's `master_middleman/source` directory override files in the centralized layout repository if they have the same name.
 
-## What's in this Repo
+## Related Links
+
+Some helpful links are as follows:
+
++ Content repo: https://github.com/pivotal-cf/docs-spring-cloud-dataflow
++ Book repo (this one): https://github.com/pivotal-cf/docs-book-scdf
++ Pipeline: https://wings.concourse.ci/teams/cf-docs/pipelines/cf-services?groups=scdf
+
+## What's in This Repo
 
 Here you'll find the configuration and templates for the SCDF for PCF documentation.
 
