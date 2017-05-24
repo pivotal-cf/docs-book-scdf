@@ -1,5 +1,11 @@
 # Spring Cloud Data Flow for PCF Documentation Book
 
+Some helpful links are as follows:
+
++ Content repo: https://github.com/pivotal-cf/docs-spring-cloud-dataflow
++ Book repo (this one): https://github.com/pivotal-cf/docs-book-scdf
++ Pipeline: https://wings.concourse.ci/teams/cf-docs/pipelines/cf-services?groups=scdf
+
 This project can create and publish the documentation for SCDF for PCF as a web application.
 
 In this topic:
