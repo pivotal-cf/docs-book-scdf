@@ -224,3 +224,5 @@ template_variables:
   scdf_creating_instance_img_service_successfully_added: service_successfully_added.png
   scdf_creating_instance_img_manage_link: manage_link.png
   scdf_creating_instance_img_new_dashboard: new_dashboard.png
+  scdf_using_dashboard_img_manage_link: manage_link.png
+  scdf_using_dashboard_img_empty_dashboard: new_dashboard.png
