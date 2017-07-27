@@ -214,15 +214,21 @@ template_variables:
   scdf_suffix: for <a href="https://network.pivotal.io/products/pivotal-cf">Pivotal Cloud Foundry</a> (PCF)
   scdf_suffix_abbrev: for PCF
   scdf_details: "_details"
-  scdf_creating_instance_target: "_target"
-  scdf_creating_instance_marketplace: "_marketplace"
-  scdf_creating_instance_create: "_create"
-  scdf_creating_instance_service: "_service"
-  scdf_creating_instance_img_marketplace: marketplace.png
-  scdf_creating_instance_img_select_plan: select_plan.png
-  scdf_creating_instance_img_instance_name: instance_name.png
-  scdf_creating_instance_img_service_successfully_added: service_successfully_added.png
-  scdf_creating_instance_img_manage_link: manage_link.png
-  scdf_creating_instance_img_new_dashboard: new_dashboard.png
+  scdf_managing_instances_target: "_target"
+  scdf_managing_instances_marketplace: "_marketplace"
+  scdf_managing_instances_create: "_create"
+  scdf_managing_instances_service: "_service"
+  scdf_managing_instances_services: "_services"
+  scdf_managing_instances_delete: "_delete"
+  scdf_managing_instances_delete_finished: "_delete-finished"
+  scdf_managing_instances_img_marketplace: marketplace.png
+  scdf_managing_instances_img_select_plan: select_plan.png
+  scdf_managing_instances_img_instance_name: instance_name.png
+  scdf_managing_instances_img_service_successfully_added: service_successfully_added.png
+  scdf_managing_instances_img_manage_link: manage_link.png
+  scdf_managing_instances_img_new_dashboard: new_dashboard.png
+  scdf_managing_instances_img_select_service: select-service.png
+  scdf_managing_instances_img_delete_service: delete-service.png
+  scdf_managing_instances_img_confirm_deletion: confirm-deletion.png
   scdf_using_dashboard_img_manage_link: manage_link.png
   scdf_using_dashboard_img_empty_dashboard: new_dashboard.png
