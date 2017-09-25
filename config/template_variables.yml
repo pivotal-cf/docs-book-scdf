@@ -235,3 +235,6 @@ template_variables:
   scdf_logs_tail: "_logs_tail"
   scdf_logs_recent: "_logs_recent"
   scdf_logs_skip: "_logs_skip"
+  scdf_img_broker_dashboard: broker-dashboard.png
+  scdf_img_recent_logs: recent-logs.png
+  scdf_img_stream_logs: stream-logs.png
