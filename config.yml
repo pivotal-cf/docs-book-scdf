@@ -19,12 +19,12 @@ sections:
   subnav_template: scdf_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: '0.4 BETA'
-    changelog_href: http://docs.pivotal.io/scdf/0-4/release-notes.html
+    latest_stable_version: '1.0'
+    changelog_href: http://docs.pivotal.io/scdf/1-0/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Spring Cloud Data Flow
-    search_placeholder: Search SCDF 0.4 BETA
-    url_prefix: scdf/0-4
-    local_product_version: '0.4 BETA'
+    search_placeholder: Search SCDF 1.0
+    url_prefix: scdf/1-0
+    local_product_version: '1.0'
     local_header_links: []
     local_header_version_list:
