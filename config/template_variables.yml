@@ -238,3 +238,4 @@ template_variables:
   scdf_img_broker_dashboard: broker-dashboard.png
   scdf_img_recent_logs: recent-logs.png
   scdf_img_stream_logs: stream-logs.png
+  scdf_img_configure_relational_db: configure-relational.png
