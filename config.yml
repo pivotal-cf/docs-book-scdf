@@ -17,7 +17,7 @@ sections:
     at_path: docs-content
     ref: "v1.0"
   directory: scdf/1-0
-  subnav_template: scdf_subnav.erb
+  subnav_template: scdf_1_0_subnav.erb
   product_info:
     use_local_header: true
     latest_stable_version: '1.1'
@@ -36,7 +36,7 @@ sections:
     at_path: docs-content
     ref: "v1.1"
   directory: scdf/1-1
-  subnav_template: scdf_subnav.erb
+  subnav_template: scdf_1_1_subnav.erb
   product_info:
     use_local_header: true
     latest_stable_version: '1.1'
