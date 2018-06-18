@@ -231,7 +231,7 @@ template_variables:
   scdf_managing_instances_img_delete_service: delete-service.png
   scdf_managing_instances_img_confirm_deletion: confirm-deletion.png
   scdf_using_dashboard_img_manage_link: manage_link.png
-  scdf_using_dashboard_img_empty_dashboard: new_dashboard.png
+  scdf_using_dashboard_img_empty_dashboard: dashboard-apps-tab-no-apps.png
   scdf_logs_tail: "_logs_tail"
   scdf_logs_recent: "_logs_recent"
   scdf_logs_skip: "_logs_skip"
