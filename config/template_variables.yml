@@ -220,6 +220,8 @@ template_variables:
   scdf_managing_instances_create: "_create"
   scdf_managing_instances_service: "_service"
   scdf_managing_instances_services: "_services"
+  scdf_managing_instances_upgrade: "_upgrade"
+  scdf_managing_instances_upgrade_finished: "_upgrade-finished"
   scdf_managing_instances_delete: "_delete"
   scdf_managing_instances_delete_finished: "_delete-finished"
   scdf_managing_instances_img_marketplace: marketplace.png
