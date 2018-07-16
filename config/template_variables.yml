@@ -16,6 +16,7 @@ template_variables:
   support_url: http://support.pivotal.io
 
   api_version: 235
+  gtm_account_id: GTM-MW4LZHR
 
   admin: your Cloud Foundry administrator
   api_endpoint_book: For more information, see the [Identifying the API Endpoint for your Elastic Runtime Instance topic](http://docs.pivotal.io/pivotalcf/customizing/api-endpoint.html).
@@ -219,6 +220,8 @@ template_variables:
   scdf_managing_instances_create: "_create"
   scdf_managing_instances_service: "_service"
   scdf_managing_instances_services: "_services"
+  scdf_managing_instances_upgrade: "_upgrade"
+  scdf_managing_instances_upgrade_finished: "_upgrade-finished"
   scdf_managing_instances_delete: "_delete"
   scdf_managing_instances_delete_finished: "_delete-finished"
   scdf_managing_instances_img_marketplace: marketplace.png
@@ -231,7 +234,7 @@ template_variables:
   scdf_managing_instances_img_delete_service: delete-service.png
   scdf_managing_instances_img_confirm_deletion: confirm-deletion.png
   scdf_using_dashboard_img_manage_link: manage_link.png
-  scdf_using_dashboard_img_empty_dashboard: new_dashboard.png
+  scdf_using_dashboard_img_empty_dashboard: dashboard-apps-tab-no-apps.png
   scdf_logs_tail: "_logs_tail"
   scdf_logs_recent: "_logs_recent"
   scdf_logs_skip: "_logs_skip"
