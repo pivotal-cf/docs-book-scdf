@@ -15,12 +15,33 @@ sections:
 - repository:
     name: pivotal-cf/docs-spring-cloud-dataflow
     at_path: docs-content
+    ref: "v1.2"
+  directory: scdf/1-2
+  subnav_template: scdf_1_2_subnav.erb
+  product_info:
+    use_local_header: true
+    latest_stable_version: '1.2'
+    changelog_href: http://docs.pivotal.io/scdf/release-notes.html
+    local_header_img: /images/cloud_rings.png
+    local_header_title: Spring Cloud Data Flow
+    search_placeholder: Search SCDF 1.2
+    url_prefix: scdf/1-2
+    local_product_version: '1.2'
+    local_header_links: []
+    local_header_version_list:
+      - url_prefix: https://docs.pivotal.io/scdf/1-1
+        display_name: v1.1
+      - url_prefix: https://docs.pivotal.io/scdf/1-0
+        display_name: v1.0
+- repository:
+    name: pivotal-cf/docs-spring-cloud-dataflow
+    at_path: docs-content
     ref: "v1.1"
   directory: scdf/1-1
   subnav_template: scdf_1_1_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: '1.1'
+    latest_stable_version: '1.2'
     changelog_href: http://docs.pivotal.io/scdf/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Spring Cloud Data Flow
@@ -29,6 +50,8 @@ sections:
     local_product_version: '1.1'
     local_header_links: []
     local_header_version_list:
+      - url_prefix: https://docs.pivotal.io/scdf/1-2
+        display_name: v1.2
       - url_prefix: https://docs.pivotal.io/scdf/1-0
         display_name: v1.0
 - repository:
@@ -39,7 +62,7 @@ sections:
   subnav_template: scdf_1_0_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: '1.1'
+    latest_stable_version: '1.2'
     changelog_href: http://docs.pivotal.io/scdf/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Spring Cloud Data Flow
@@ -48,5 +71,7 @@ sections:
     local_product_version: '1.0'
     local_header_links: []
     local_header_version_list:
+      - url_prefix: https://docs.pivotal.io/scdf/1-2
+        display_name: v1.2
       - url_prefix: https://docs.pivotal.io/scdf/1-1
         display_name: v1.1
