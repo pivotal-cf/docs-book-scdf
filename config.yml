@@ -33,7 +33,7 @@ sections:
         display_name: v1.2
       - url_prefix: https://docs.pivotal.io/scdf/1-1
         display_name: v1.1
-      - url_prefix: https://docs.pivotal.io/scdf/1-0
+      - url_prefix: https://docs.pivotal.io/archives/scdf-docs-1.0.pdf
         display_name: v1.0
 - repository:
     name: pivotal-cf/docs-spring-cloud-dataflow
@@ -56,7 +56,7 @@ sections:
         display_name: v1.3
       - url_prefix: https://docs.pivotal.io/scdf/1-1
         display_name: v1.1
-      - url_prefix: https://docs.pivotal.io/scdf/1-0
+      - url_prefix: https://docs.pivotal.io/archives/scdf-docs-1.0.pdf
         display_name: v1.0
 - repository:
     name: pivotal-cf/docs-spring-cloud-dataflow
@@ -79,28 +79,5 @@ sections:
         display_name: v1.3
       - url_prefix: https://docs.pivotal.io/scdf/1-2
         display_name: v1.2
-      - url_prefix: https://docs.pivotal.io/scdf/1-0
+      - url_prefix: https://docs.pivotal.io/archives/scdf-docs-1.0.pdf
         display_name: v1.0
-- repository:
-    name: pivotal-cf/docs-spring-cloud-dataflow
-    at_path: docs-content
-    ref: "v1.0"
-  directory: scdf/1-0
-  subnav_template: scdf_1_0_subnav.erb
-  product_info:
-    use_local_header: true
-    latest_stable_version: '1.3'
-    changelog_href: http://docs.pivotal.io/scdf/release-notes.html
-    local_header_img: /images/cloud_rings.png
-    local_header_title: Spring Cloud Data Flow
-    search_placeholder: Search SCDF 1.0
-    url_prefix: scdf/1-0
-    local_product_version: '1.0'
-    local_header_links: []
-    local_header_version_list:
-      - url_prefix: https://docs.pivotal.io/scdf/1-3
-        display_name: v1.3
-      - url_prefix: https://docs.pivotal.io/scdf/1-2
-        display_name: v1.2
-      - url_prefix: https://docs.pivotal.io/scdf/1-1
-        display_name: v1.1
