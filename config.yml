@@ -33,8 +33,7 @@ sections:
         display_name: v1.2
       - url_prefix: https://docs.pivotal.io/scdf/1-1
         display_name: v1.1
-      - url_prefix: https://docs.pivotal.io/archives/scdf-docs-1.0.pdf
-        display_name: v1.0
+      - <a href="https://docs.pivotal.io/archives/scdf-docs-1.0.pdf">v1.0</a>
 - repository:
     name: pivotal-cf/docs-spring-cloud-dataflow
     at_path: docs-content
@@ -56,8 +55,7 @@ sections:
         display_name: v1.3
       - url_prefix: https://docs.pivotal.io/scdf/1-1
         display_name: v1.1
-      - url_prefix: https://docs.pivotal.io/archives/scdf-docs-1.0.pdf
-        display_name: v1.0
+      - <a href="https://docs.pivotal.io/archives/scdf-docs-1.0.pdf">v1.0</a>
 - repository:
     name: pivotal-cf/docs-spring-cloud-dataflow
     at_path: docs-content
@@ -79,5 +77,4 @@ sections:
         display_name: v1.3
       - url_prefix: https://docs.pivotal.io/scdf/1-2
         display_name: v1.2
-      - url_prefix: https://docs.pivotal.io/archives/scdf-docs-1.0.pdf
-        display_name: v1.0
+      - <a href="https://docs.pivotal.io/archives/scdf-docs-1.0.pdf">v1.0</a>
