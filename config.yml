@@ -15,7 +15,7 @@ elastic_search: true
 sections:
 - repository:
     name: pivotal-cf/docs-spring-cloud-dataflow
-    ref: 1.5
+    ref: "v1.5"
     at_path: docs-content
   directory: scdf/1-5
   subnav_template: scdf_1_5_subnav.erb
