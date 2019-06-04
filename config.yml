@@ -16,6 +16,7 @@ sections:
 - repository:
     name: pivotal-cf/docs-spring-cloud-dataflow
     at_path: docs-content
+    ref: '1.5'
   directory: scdf/1-5
   subnav_template: scdf_1_5_subnav.erb
   product_info:
