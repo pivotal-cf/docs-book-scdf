@@ -18,7 +18,7 @@ sections:
     ref: "master"
     at_path: docs-content
   directory: scdf/1-6
-  subnav_template: scdf_1_5_subnav.erb
+  subnav_template: scdf_1_6_subnav.erb
   product_info:
     use_local_header: true
     latest_stable_version: '1.5'
