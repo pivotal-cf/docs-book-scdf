@@ -30,6 +30,8 @@ sections:
     local_product_version: '1.6'
     local_header_links: []
     local_header_version_list:
+      - url_prefix: https://docs.pivotal.io/scdf/1-6
+        display_name: v1.6
       - url_prefix: https://docs.pivotal.io/scdf/1-5
         display_name: v1.5
       - url_prefix: https://docs.pivotal.io/scdf/1-4
