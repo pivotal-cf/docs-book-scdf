@@ -1,6 +1,6 @@
-# Spring Cloud Data Flow for PCF Documentation Book
+# Pivotal Spring Cloud Data Flow Documentation Book
 
-This project can create and publish the documentation for SCDF for PCF as a web application.
+This project can create and publish the documentation for Pivotal SCDF as a web application.
 
 In this topic:
 
@@ -29,7 +29,7 @@ Some helpful links are as follows:
 
 ## What's in This Repo
 
-Here you'll find the configuration and templates for the SCDF for PCF documentation.
+Here you'll find the configuration and templates for the Pivotal SCDF documentation.
 
 This repository *does not* contain the actual documentation content. 
 Actual content is contained in the topic repositories listed in the `config.yml` file.
