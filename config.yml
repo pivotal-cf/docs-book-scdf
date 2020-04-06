@@ -49,7 +49,7 @@ sections:
   subnav_template: scdf_1_6_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: '1.6'
+    latest_stable_version: '1.7'
     changelog_href: http://docs.pivotal.io/scdf/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Spring Cloud Data Flow
@@ -79,7 +79,7 @@ sections:
   subnav_template: scdf_1_5_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: '1.6'
+    latest_stable_version: '1.7'
     changelog_href: http://docs.pivotal.io/scdf/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Spring Cloud Data Flow
@@ -109,7 +109,7 @@ sections:
   subnav_template: scdf_1_4_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: '1.6'
+    latest_stable_version: '1.7'
     changelog_href: http://docs.pivotal.io/scdf/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Spring Cloud Data Flow
@@ -139,7 +139,7 @@ sections:
   subnav_template: scdf_1_3_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: '1.6'
+    latest_stable_version: '1.7'
     changelog_href: http://docs.pivotal.io/scdf/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Spring Cloud Data Flow
@@ -169,7 +169,7 @@ sections:
   subnav_template: scdf_1_2_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: '1.6'
+    latest_stable_version: '1.7'
     changelog_href: http://docs.pivotal.io/scdf/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Spring Cloud Data Flow
@@ -199,7 +199,7 @@ sections:
   subnav_template: scdf_1_1_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: '1.6'
+    latest_stable_version: '1.7'
     changelog_href: http://docs.pivotal.io/scdf/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Spring Cloud Data Flow
@@ -229,7 +229,7 @@ sections:
   subnav_template: scdf_1_0_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: '1.6'
+    latest_stable_version: '1.7'
     changelog_href: http://docs.pivotal.io/scdf/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Spring Cloud Data Flow
