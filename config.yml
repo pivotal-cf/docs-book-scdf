@@ -2,10 +2,7 @@
 book_repo: pivotal-cf/docs-book-scdf
 layout_repo: pivotal-cf/docs-layout-repo
 
-feedback_enabled: true
-
 broken_link_exclusions: iefix|arrowhead
-repo_link_enabled: true
 
 public_host: docs.pivotal.io
 
