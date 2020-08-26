@@ -17,7 +17,7 @@ sections:
     name: pivotal-cf/docs-spring-cloud-dataflow
     ref: "master"
     at_path: docs-content
-  directory: scdf/1-9
+  directory: scdf/1-n
   subnav_template: scdf_1_9_subnav.erb
   product_info:
     use_local_header: true
@@ -26,11 +26,11 @@ sections:
     local_header_img: /images/cloud_rings.png
     local_header_title: Spring Cloud Data Flow
     search_placeholder: Search SCDF 1.9
-    url_prefix: scdf/1-9
+    url_prefix: scdf/1-n
     local_product_version: '1.9'
     local_header_links: []
     local_header_version_list:
-      - url_prefix: https://docs.pivotal.io/scdf/1-9
+      - url_prefix: https://docs.pivotal.io/scdf/1-n
         display_name: v1.9
       - url_prefix: https://docs.pivotal.io/scdf/1-8
         display_name: v1.8
