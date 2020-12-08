@@ -4,4 +4,4 @@ r301 %r{.*}, 'https://docs.pivotal.io$&', :if => Proc.new { |rack_env|
 }
 
 # If no version prefix is provided, redirect to docs for latest version
-r301 %r{/scdf/(?![\d-]+)(.*)}, "/scdf/1-9/$1"
+r301 %r{/scdf/(?![\d-]+)(.*)}, "/scdf/1-10/$1"
