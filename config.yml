@@ -405,9 +405,3 @@ sections:
         display_name: v1.2
       - url_prefix: https://docs.pivotal.io/scdf/1-1
         display_name: v1.1
-- repository:
-    name: pivotal-cf/spring-cloud-commercial-docs-partials
-    ref: master
-  directory: data-flow
-  no_docs: true
-
