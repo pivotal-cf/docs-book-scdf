@@ -242,3 +242,5 @@ template_variables:
   scdf_img_recent_logs: recent-logs.png
   scdf_img_stream_logs: stream-logs.png
   scdf_img_configure_relational_db: configure-relational.png
+
+  scdf_platform: Cloud Foundry
