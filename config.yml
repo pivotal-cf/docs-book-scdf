@@ -468,6 +468,6 @@ sections:
 - repository:
     name: pivotal-cf/docs-spring-cloud-dataflow-k8s
     ref: "v1.3"
-    at_path: docs-content/pro-features
-  directory: scdf/1-11/pro-features
-  subnav_template: scdf_1_11_subnav.erb
+    at_path: docs-content
+  directory: scdf-k8s
+  no_docs: true
