@@ -248,7 +248,7 @@ template_variables:
   scdf_product_short_name: SCDF
   scdf_platform: Cloud Foundry
   scdf_registry_name: repository
-  scdf_registry_first: JFrog Artifactory repository
-  scdf_registry: Artifactory repository
-  scdf_image: image
-  scdf_images: images
+  scdf_registry_first: Maven artifact repository
+  scdf_registry: artifact repository
+  scdf_image: artifact
+  scdf_images: artifacts
