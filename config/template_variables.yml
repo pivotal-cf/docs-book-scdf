@@ -252,3 +252,5 @@ template_variables:
   scdf_registry: artifact repository
   scdf_image: artifact
   scdf_images: artifacts
+  scdf_tag: version
+  scdf_tags: versions
