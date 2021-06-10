@@ -243,4 +243,10 @@ template_variables:
   scdf_img_stream_logs: stream-logs.png
   scdf_img_configure_relational_db: configure-relational.png
 
+  scdf_product: TAS
   scdf_platform: Cloud Foundry
+  scdf_registry_name: repository
+  scdf_registry_first: JFrog Artifactory repository
+  scdf_registry: Artifactory repository
+  scdf_image: image
+  scdf_images: images
