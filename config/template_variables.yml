@@ -244,6 +244,8 @@ template_variables:
   scdf_img_configure_relational_db: configure-relational.png
 
   scdf_product: TAS
+  scdf_product_full_name: VMware Spring Cloud® Data Flow for VMware Tanzu
+  scdf_product_short_name: SCDF
   scdf_platform: Cloud Foundry
   scdf_registry_name: repository
   scdf_registry_first: JFrog Artifactory repository
