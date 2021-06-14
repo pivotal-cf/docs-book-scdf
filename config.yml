@@ -1,7 +1,7 @@
 ---
 book_repo: pivotal-cf/docs-book-scdf
 layout_repo: pivotal-cf/docs-layout-repo
-
+layout_repo_ref: master
 broken_link_exclusions: iefix|arrowhead
 
 public_host: docs.pivotal.io
@@ -12,7 +12,7 @@ sections:
 - repository:
     name: pivotal-cf/docs-spring-cloud-dataflow
     ref: "v1.11"
-  directory: scdf/1-11
+  directory: scdf/1-11/main
   subnav_template: scdf_1_11_subnav.erb
   product_info:
     use_local_header: true
@@ -468,6 +468,6 @@ sections:
 - repository:
     name: pivotal-cf/docs-spring-cloud-dataflow-k8s
     ref: "v1.3"
-    at_path: docs-content
-  directory: scdf-k8s
-  no_docs: true
+    at_path: docs-content/pro-features
+  directory: scdf/1-11/pro-features
+  subnav_template: scdf_1_11_subnav.erb
