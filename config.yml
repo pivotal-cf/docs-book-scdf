@@ -6,7 +6,7 @@ broken_link_exclusions: iefix|arrowhead
 
 public_host: docs.pivotal.io
 
-elastic_search: true
+elastic_search: false
 
 sections:
 - repository:
