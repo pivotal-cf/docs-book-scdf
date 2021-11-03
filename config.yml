@@ -517,3 +517,9 @@ sections:
     at_path: docs-content/pro-features
   directory: scdf/1-11/pro-features
   subnav_template: scdf_1_11_subnav.erb
+- repository:
+    name: pivotal-cf/docs-spring-cloud-dataflow-k8s
+    ref: "v1.4"
+    at_path: docs-content/pro-features
+  directory: scdf/1-12/pro-features
+  subnav_template: scdf_1_12_subnav.erb
