@@ -12,4 +12,3 @@ r301 %r{/scdf/(1-[0-9]|10)/main/(.*)}, "/scdf/$1/$2"
 
 # If no version prefix is provided, redirect to docs for latest version
 r301 %r{/scdf/(?![\d-]+)(.*)}, "/scdf/1-12/$1"
-
