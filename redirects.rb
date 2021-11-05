@@ -8,7 +8,8 @@ r301 %r{/scdf/1-12/(?!main|pro-features)(.*)}, "/scdf/1-12/main/$1"
 r301 %r{/scdf/1-11/(?!main|pro-features)(.*)}, "/scdf/1-11/main/$1"
 
 # Versions 1.10 and earlier: remove 'main' prefix if provided
-r301 %r{/scdf/(1-[0-9]|10)/main/(.*)}, "/scdf/$1/$2"
+r301 %r{/scdf/(1-10)/main/(.*)}, "/scdf/$1/$2"
+r301 %r{/scdf/(1-[0-9])/main/(.*)}, "/scdf/$1/$2"
 
 # If no version prefix is provided, redirect to docs for latest version
 r301 %r{/scdf/(?![\d-]+)(.*)}, "/scdf/1-12/$1"
